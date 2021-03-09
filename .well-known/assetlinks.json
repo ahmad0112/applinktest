@@ -1,9 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.example.myapplinksample",
-    "sha256_cert_fingerprints":
-    ["45:9E:3D:27:EB:F2:4C:72:5B:24:D3:F3:9E:49:20:51:01:0F:F1:06:7A:3D:F8:2B:BC:C6:61:AB:8F:79:AE:B3"]
-  }
+  "target" : { "namespace": "android_app", "package_name": "com.veripark.GIB",
+               "sha256_cert_fingerprints": ["45:9E:3D:27:EB:F2:4C:72:5B:24:D3:F3:9E:49:20:51:01:0F:F1:06:7A:3D:F8:2B:BC:C6:61:AB:8F:79:AE:B3"] }
 }]
